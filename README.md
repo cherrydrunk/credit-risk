@@ -1,2 +1,1 @@
-# credit-risk
-Credit Risk Detection using Deep Learning
+# Credit Risk Detection using Deep Learning
